@@ -6,7 +6,9 @@ For example, the hidden message may be in invisible ink on a blank paper or betw
 Advantage of Steganography over Cryptography is that the intended message doesn't attract attention to itself.<br>
 
 I have implemented Image Steganography using Least Significant Bit(LSB) method.<br>
+
 <img src=https://chenyumin.com/assets/posts/steganography-63b0b3f636b6e94821e9c2852da04fd80023fb7252259aa18ded5ae1fab42e96.jpg>
+
 To complete this task I have used 3 libraries:<br>
 
 1.PIL - Pillow library to work with Images in Python<br>
