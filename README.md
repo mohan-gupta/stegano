@@ -1,5 +1,5 @@
 # Image Steganography in Python
-<b>Steganography<\b> is the practice of concealing a file, message, image or video inside the other file, message, image or video.<br>
+<b>Steganography</b>: is the practice of concealing a file, message, image or video inside the other file, message, image or video.<br>
 The first recorded use of steganography was in 1499 by johannes Trithemius.<br>
 In Steganography, generally the hidden message appears to be something else: image, article or some other cover text.<br>
 For example, the hidden message may be in invisible ink on a blank paper or between the lines of a private letter.<br>
