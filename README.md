@@ -10,9 +10,9 @@ I have implemented Image Steganography using Least Significant Bit(LSB) method.<
 <img src = https://img.wonderhowto.com/img/02/61/63645877844452/0/steganography-hide-secret-data-inside-image-audio-file-seconds.w1456.jpg>
 To complete this task I have used 3 libraries:<br>
 
-1.PIL - Pillow library to work with Images in Python
-2.os - to get the size of image
-3.shutil - to cpy the image
+1.PIL - Pillow library to work with Images in Python<br>
+2.os - to get the size of image<br>
+3.shutil - to cpy the image<br>
 
 If you don't have PIL librrary the open your command prompt or Anaconda prompt and type: pip install Pillow,<br>
 To know more about the PIL library click on  this link: https://pypi.org/project/Pillow/ <br>
