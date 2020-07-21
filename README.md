@@ -22,3 +22,5 @@ To know more about Steganography visit: https://en.wikipedia.org/wiki/Steganogra
 Few Drawbacks of this method : <br>
 1. This methods works best with ```png``` files, if you use a format other than png then it need to be saved as png file, since other format can mess up the hidden message.<br>
 2. Encoded image should not be cropped or its size shouldn't be change as this can lead to loss of hidden message.
+
+<b>The jupyter Notebook can be best viewed here:</b> https://nbviewer.jupyter.org/github/Mohan-Gupta/stegano/blob/master/Stegano.ipynb
