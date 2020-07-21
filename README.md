@@ -19,3 +19,6 @@ If you don't have PIL librrary the open your command prompt or Anaconda prompt a
 To know more about the PIL library click on  this link: https://pypi.org/project/Pillow/ <br>
 
 To know more about Steganography visit: https://en.wikipedia.org/wiki/Steganography
+Few Drawbacks of this method : <br>
+1. Encoded image should be saved as ```png``` file as in other formats pixels of image gets changed slightly which can change the hidden message.<br>
+2. Encoded image should not be cropped or its size shouldn't be change as this can lead to loss of hidden message.
